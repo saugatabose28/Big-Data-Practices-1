@@ -82,7 +82,9 @@ Usage
 
 Clone the repository:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/your-username/Big-Data-Practices-1.git  cd Big-Data-Practices-1   `
+`git clone https://github.com/your-username/Big-Data-Practices-1.git`
+
+`cd Big-Data-Practices-1`
 
 Navigate to each task folder and follow the provided instructions in scripts and notebooks.
 
@@ -96,7 +98,7 @@ Requirements
 *   Python 3.x with required libraries:
     
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install pyspark pandas numpy matplotlib seaborn plotly   `
+`pip install pyspark pandas numpy matplotlib seaborn plotly`
 
 Author
 ------
